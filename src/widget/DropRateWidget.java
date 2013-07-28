@@ -70,6 +70,7 @@ public class DropRateWidget extends Activity {
 
 	//DROP RATE FINISH
 	
+	//Testing for git
 	
 	//RESET DROP RATE
 	trykkReset=(Button)findViewById(R.id.button1Reset);
