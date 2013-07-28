@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <style name="codeText" parent="@android:style/TextAppearance">
+    <item name="android:textSize">40sp</item>
+    <item name="android:typeface">monospace</item>
+    </style>
+    
+    <style name="codeText.red">
+        <item name="android:textColor">#FF0000</item>
+        
+    </style>
+    
+    </resources>

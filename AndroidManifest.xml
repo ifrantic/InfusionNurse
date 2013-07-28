@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="no.knutinge.Infusionnurse"
+    android:versionCode="6"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+         >
+        <activity
+            android:name="no.priv.larsgard.activity.MainActivity"
+            android:label="@string/app_name" >
+    
+               <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="no.priv.larsgard.activity.CalcInfSpeedActivity"
+            android:label="@string/main_Button_til_infHastighet"
+           
+            ></activity>
+        
+                <activity android:name="no.priv.larsgard.activity.CalcConvertSpeedActivity"
+            android:label="@string/main_Button_til_convHastighet"
+           
+            ></activity>
+               <activity android:name="no.priv.larsgard.activity.DoseStyrkeMengdeActivity"
+            android:label="@string/main_Button_til_dsm">
+                        
+            
+               </activity>
+               
+               
+                   <activity android:name="no.priv.larsgard.activity.PreferencesCalcConvertSpeed"
+            android:label="@string/main_Button_til_infHastighet"
+           
+            ></activity>
+                   
+                   <receiver android:name="InfusionNurseWidgetProvider" >
+    <intent-filter>
+        <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+        <action android:name="no.priv.larsgard.widget.DropRate" />
+    </intent-filter>
+    <meta-data android:name="android.appwidget.provider"
+               android:resource="@xml/infusion_nurse_widget_info" />
+</receiver>
+
+                   <activity
+  android:name="no.priv.larsgard.widget.DropRateWidget"
+  android:noHistory="true"
+   />
+                   
+    </application>
+
+</manifest>

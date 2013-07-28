@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Tid_label">
+        <item>Hour</item>
+        <item>Minute</item>
+        <item >Second</item>
+    </string-array>
+    
+                <string-array name="fart_label">
+        <item>Ml/h</item>
+        <item>gotas/min</item>
+        <item >gotas/seg</item>
+    </string-array>
+    
+                
+        <string-array name="mengde_label">
+            <item>MilliL</item>
+        <item >Gotas</item>
+         <item>Liter</item>
+    </string-array>
+    
+    
+    
+<string-array name="dose_label">
+    <item>Mg</item>
+    <item>Gram</item>  
+</string-array>
+
+<string-array name="styrke_label">
+    <item>Mg/ml</item>
+    <item>Mg/gota</item>
+</string-array>
+
+
+        <string-array name="mengdeFree_label">
+            <item>MilliL</item>
+    </string-array>
+    
+    
+    
+<string-array name="doseFree_label">
+    <item>Mg</item> 
+</string-array>
+
+<string-array name="styrkeFree_label">
+    <item>Mg/ml</item>
+</string-array>
+
+
+
+    
+</resources>

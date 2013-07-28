@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="tappDropRate_width"> 200dp</dimen>
+     <dimen name="tappDropRate_height"> 200dp</dimen>
+      <dimen name="tapDropRateButton_margin">5dp</dimen>
+      
+       <dimen name="seekBarMargin">16dp</dimen>
+     
+     <dimen name="button_height">25dp</dimen>
+     <dimen name="button_width">100dp</dimen>
+    
+     
+     <dimen name="textSize"> 15sp</dimen>
+     <dimen name="spinnerTextSize"> 14sp</dimen>
+     <dimen name="spinnerViewHeight"> 15dp</dimen>
+     
+     <dimen name="textSizeImportant">20sp</dimen>
+     
+     <dimen name="buttonTextSize">16sp</dimen>
+     
+     <dimen name="TapDropRateTextviewTextSize"> 25sp</dimen>
+     
+     
+     <color name="color1">#E30072</color><!-- rosa-rød -->
+      <color name="color2">#E81780</color><!-- rosa -->
+       <color name="color3">#F4DA18</color><!-- yellow -->
+        <color name="color4">#16C1D6</color><!-- grønn/turkis -->
+         <color name="color5">#09A0B5</color><!-- grønn/turkis, mørkere -->
+         <color name="transparent">#00000000</color>
+
+</resources>

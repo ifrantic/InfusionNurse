@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Infusion nurse</string>
+    <string name="dose_mg">Dosis(mg)</string>
+    <string name="styrke_mg_ml_">Stärke(mg/ml)</string>
+    <string name="mengde_ml_">Volumen(ml)</string>
+    <string name="regn_ut">berechnen</string>
+
+    <string name="about_me">
+        Diese App wird von einer Krankenschwester gemacht. Es basiert auf Krankenschwestern und andere gedacht, die
+         arbeiten mit Infusionen und Medizin.
+         Der Zweck ist, um alltägliche Berechnungen einfacher und sicherer.
+         Wie auch immer, Sie und nur Sie sind verantwortlich für Ihre eigene Berechnungen.
+         Jegliche Nutzung dieser App ist auf eigene Gefahr.
+         NB: Meine Berechnungen basieren auf: <br>20 Tropfen = 1 ml.</br>
+
+        </string>
+
+    
+     <string name="main">Home</string>
+     
+     
+     <string name="main_Button_til_infHastighet">Infusionsrate</string>
+     <string name="main_Button_til_convHastighet">Convert Geschwindigkeit</string>
+     <string name="main_Button_til_dsm">Dosis/Stärke/Volumen</string>
+     <string name="main_Button_til_fortynning">Dilution</string>
+     
+     
+    
+    <string name="draapetakt">Droprate : Hier klicken!</string>
+ 
+    <string name="mengde">Volumen : </string>
+    <string name="dose">Dosis : </string>
+    <string name="styrke">Stärke : </string>
+    
+    <string name="Infusjonstid">Infusionszeit : </string>
+    
+    <string name="hastighet">Geschwindigkeit : </string>
+    
+   
+    
+    <string name="mlT">ml/h</string>
+    
+    
+    <string name="drSek">dr/sec</string>
+    
+    
+    <string name="drMin">dr/min</string>
+    
+   
+   <string name="draaperAntall">Anzahl Tropfen : </string>
+    
+   
+   <string name="resetButton">Zurückgesetzt</string>
+    
+
+</resources>

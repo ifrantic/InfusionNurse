@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    
+    <CheckBoxPreference android:key="keyCalcInfSpeedSbTidMax"
+        android:title="Max time"
+        android:summary="Define max value of infusion time"/>
+        
+        <CheckBoxPreference android:key="keyCalcInfSpeedSbMengdeMax"
+        android:title="Max volume"
+        android:summary="Define max value of infusion volume"/>
+
+</PreferenceScreen>

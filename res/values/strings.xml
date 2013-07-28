@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Infusion nurse</string>
+    <string name="dose_mg">Dose(mg)</string>
+    <string name="styrke_mg_ml_">Strength(mg/ml)</string>
+    <string name="mengde_ml_">Volume(ml)</string>
+    <string name="regn_ut">Calculate</string>
+
+    <string name="about_me">This app is made by a nurse. It is intended on nurses and others who
+        work with infusions and medicine.
+        The purpose is to make everyday calculations easier and safer.
+        Anyway, you and only you are responsible for your own calculations.
+        All use of this app is  at your own risk.
+        NB: My calculations are based on:  <b>20 drops = 1 ml.</b>
+
+        </string>
+
+    
+     <string name="main">Home</string>
+     
+     
+     <string name="main_Button_til_infHastighet">Infusion rate</string>
+     <string name="main_Button_til_convHastighet">Convert speed</string>
+     <string name="main_Button_til_dsm">Dose/Strength/Volume</string>
+     <string name="main_Button_til_fortynning">Dilution</string>
+     
+     <string name="about_button">About</string>
+     
+     
+    
+    <string name="draapetakt">Drop rate: Tapp!</string>
+ 
+    <string name="mengde">Volume : </string>
+    <string name="dose">Dose : </string>
+    <string name="styrke">Strength : </string>
+    
+    <string name="Infusjonstid">Infusion time : </string>
+    
+    <string name="hastighet">Speed : </string>
+    
+   
+    
+    <string name="mlT">ml/h</string>
+    
+    
+    <string name="drSek">dr/sec</string>
+    
+    
+    <string name="drMin">dr/min</string>
+    
+   
+   <string name="draaperAntall">Number of drops : </string>
+    
+   
+   <string name="resetButton">Reset</string>
+    
+
+</resources>

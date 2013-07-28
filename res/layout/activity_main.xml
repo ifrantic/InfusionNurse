@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_weight="1" >
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:footerDividersEnabled="false">
+        </ListView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_weight="1"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="vertical" >
+
+     <TextView
+         android:id="@+id/textViewDrSek"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:gravity="center_vertical|center_horizontal"
+         android:text="@string/drSek"
+         android:textSize="@dimen/textSizeImportant" />
+
+        <TextView
+            android:id="@+id/textViewDrMin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/drMin"
+            android:textSize="@dimen/textSizeImportant" />
+
+        <TextView
+            android:id="@+id/textViewMlT"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/mlT"
+            android:textSize="@dimen/textSizeImportant" />
+
+        <Button
+            android:id="@+id/button1Reset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/resetButton" />
+
+    <Button
+        android:id="@+id/button1DraapeTakt"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/draapetakt"
+        android:layout_weight="1"/>
+
+    </LinearLayout>
+
+</LinearLayout>

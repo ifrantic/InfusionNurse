@@ -1,0 +1,27 @@
+
+
+Lage settings.
+
+Velge max seekbar verdi for de forskjellige benevningene (ml/t, ml, dr, sek osv)
+Lagre verdiene i db, slik at de kan brukes senere.
+
+
+Utvide dose/styrke/mengde
+FOrtynning
+
+
+
+språk:
+http://www.loc.gov/standards/iso639-2/php/code_list.php
+
+default: engelsk?
+
+values -de :tysk
+values -fr :Fransk
+values -hi :Hindi
+values -en : Engelsk
+values -no : Norsk
+values -it : Italiensk
+values fa : persisk
+values -pt : portugisisk
+values -es : spansk 

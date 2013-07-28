@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cálculo de dosis</string>
+    <string name="dose_mg">Dosis(mg)</string>
+    <string name="styrke_mg_ml_">Concentración(mg/ml)</string>
+    <string name="mengde_ml_">Volumen(ml)</string>
+    <string name="regn_ut">Calcular</string>
+
+    <string name="about_me">Esta aplicación fue hecha por un enfermero y está pensada
+        para ser utilizada por personal que trabaja con todo tipo de medicinas, incluyendo las
+        aplicadas via intrevenosa.
+        El propósito de esta aplicación es ayudar a un cálculo de medicación más fácil y seguro.
+
+        Recuerde que Ud. es el responsable final de sus propios cálculos.
+        Todo uso de esta aplicación es bajo su propia responsabilidad.
+        Nota: Los calculos están basados en: 20 gotas = 1 ml.
+
+        </string>
+    
+     <string name="main">Inicio</string>
+     
+     <string name="main_Button_til_infHastighet">Rapidez de infusión</string>
+     <string name="main_Button_til_convHastighet">Velocidad de conversión</string>
+     <string name="main_Button_til_dsm">Dosis/Concentración/Volumen</string>
+     <string name="main_Button_til_fortynning">Dilución</string>
+     
+     <string name="about_button">Acerca de</string>
+    
+    <string name="draapetakt">Pulse la tasa de goteo aqui!</string>
+ 
+    <string name="mengde">Volumen : </string>
+    <string name="dose">Dosis : </string>
+    <string name="styrke">Concentración : </string>
+    
+    <string name="Infusjonstid">Tiempo de Infusión : </string>
+    
+    <string name="hastighet">Rapidez : </string>
+    
+    <string name="mlT">ml/h</string>
+    
+    <string name="drSek">gotas/seg</string>
+    
+    <string name="drMin">gotas/min</string>
+   
+   <string name="draaperAntall">Número de gotas : </string>
+   
+   <string name="resetButton">Reinicializar</string>
+
+</resources>

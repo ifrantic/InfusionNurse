@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Infusion nurse</string>
+    <string name="dose_mg">Dose(mg)</string>
+    <string name="styrke_mg_ml_">Styrke(mg/ml)</string>
+    <string name="mengde_ml_">Mengde(ml)</string>
+    <string name="regn_ut">Regn ut</string>
+
+    <string name="about_me">Dette er et medikamentutrengings program, laget av en sykepleier.
+  Målgruppen er hovedsakelig sykepleiere, men programmet kan selvfølgelig være et hjelpemiddel for 
+  alt helsepersonell som jobber med medikamenter.
+        Målet med programmet er å gjøre hverdagslige medikamentutregninger sikrere og lettere. 
+        Alt bruk er imidlertid på eget ansvar.
+         NB: Mine utregninger er basert på:  <b>20 dråper = 1 ml.</b>
+
+        </string>
+
+    
+     <string name="main">Home</string>
+     
+     
+     <string name="main_Button_til_infHastighet">Infusjonshastighet</string>
+     <string name="main_Button_til_convHastighet">Konverter hastighet</string>
+     <string name="main_Button_til_dsm">Dose/Styrke/Mengde</string>
+     <string name="main_Button_til_fortynning">Fortynning</string>
+     
+     
+    
+    <string name="draapetakt">Dråpetakt: Trykk her!</string>
+ 
+    <string name="mengde">Mengde : </string>
+    <string name="dose">Dose : </string>
+    <string name="styrke">Styrke : </string>
+    
+    <string name="Infusjonstid">Infusjonstid : </string>
+    
+    <string name="hastighet">Hastighet : </string>
+    
+   
+    
+    <string name="mlT">ml/t</string>
+    
+    
+    <string name="drSek">dr/sek</string>
+    
+    
+    <string name="drMin">dr/min</string>
+    
+   
+   <string name="draaperAntall">Antall dråper : </string>
+    
+   
+   <string name="resetButton">Reset</string>
+    
+
+</resources>
