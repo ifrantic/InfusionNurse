@@ -4,9 +4,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-
        <TextView
-           android:id="@+id/textViewDrSek"
+           android:id="@+id/wTextViewDrSek"
            android:layout_width="wrap_content"
            android:layout_height="wrap_content"
            android:gravity="center_vertical|center_horizontal"
@@ -14,7 +13,7 @@
            android:textSize="@dimen/textSizeImportant" />
 
         <TextView
-            android:id="@+id/textViewDrMin"
+            android:id="@+id/wTextViewDrMin"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center_vertical|center_horizontal"
@@ -22,25 +21,31 @@
             android:textSize="@dimen/textSizeImportant" />
 
         <TextView
-            android:id="@+id/textViewMlT"
+            android:id="@+id/wTextViewMlT"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center_vertical|center_horizontal"
             android:text="@string/mlT"
             android:textSize="@dimen/textSizeImportant" />
 
-        <Button
-            android:id="@+id/button1Reset"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/resetButton" />
+            android:layout_height="wrap_content" >
 
-        <Button
-            android:id="@+id/button1DraapeTakt"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:text="@string/draapetakt" />
-   
+            <Button
+                android:id="@+id/wButton1Reset"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:text="@string/resetButton" />
+
+            <Button
+                android:id="@+id/wButton1DraapeTakt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/draapetakt" />
+
+        </LinearLayout>
 
 </LinearLayout>

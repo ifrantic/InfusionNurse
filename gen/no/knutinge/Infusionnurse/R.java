@@ -67,19 +67,17 @@ public final class R {
         public static final int icon=0x7f020003;
         public static final int infusion_nurse_widget=0x7f020004;
         public static final int logo=0x7f020005;
-        public static final int my_gradient=0x7f020006;
-        public static final int pic=0x7f020007;
-        public static final int rounded_corner=0x7f020008;
+        public static final int pic=0x7f020006;
     }
     public static final class id {
         public static final int SeekBaDose=0x7f0b0012;
         public static final int SeekBarCalcConvertSpeedVelgFart=0x7f0b000b;
         public static final int SeekBarCalcInfSpeedVelgMengde=0x7f0b000e;
-        public static final int action_about=0x7f0b001e;
+        public static final int action_about=0x7f0b0023;
         public static final int button1DraapeTakt=0x7f0b0005;
         public static final int button1Reset=0x7f0b0004;
-        public static final int icon=0x7f0b001c;
-        public static final int label=0x7f0b001d;
+        public static final int icon=0x7f0b0021;
+        public static final int label=0x7f0b0022;
         public static final int linearLayout=0x7f0b000f;
         public static final int linearLayout2=0x7f0b0013;
         public static final int linearLayout3=0x7f0b0017;
@@ -103,6 +101,11 @@ public final class R {
         public static final int textViewMengde=0x7f0b0018;
         public static final int textViewMlT=0x7f0b0003;
         public static final int textViewStyrke=0x7f0b0014;
+        public static final int wButton1DraapeTakt=0x7f0b0020;
+        public static final int wButton1Reset=0x7f0b001f;
+        public static final int wTextViewDrMin=0x7f0b001d;
+        public static final int wTextViewDrSek=0x7f0b001c;
+        public static final int wTextViewMlT=0x7f0b001e;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
