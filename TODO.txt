@@ -1,4 +1,3 @@
-
 ############ widget: ######################
    Endringer i AndroidManifest.xml er gjort.
    Filer:
@@ -6,6 +5,10 @@
    layout/drop_rate_widget.xml
    xml/infusion_nurse_widget_info.xml
    src/widget/InfusionNurseWidgetProvider.java
+   
+   Widget fungerer, men kun med testdata.
+   Har ikke klart å implementere ønsket funksjonalitet, se MainActivity for ønsket funksjonalitet i forhold til dropRate.
+   
    
    
    ############ widget ferdig her ######################
